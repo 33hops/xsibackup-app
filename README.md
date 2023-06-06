@@ -1,7 +1,7 @@
   File: XSIBackup-App_1.0.0.1.tar.gz  
 CRC-32: 92b9fd0f
    MD4: f246155e7a09b8eec1cfd23afff25704   
-   MD5: 0f5760fc7586f82408000482ce60b4e6
+   MD5: 0f5760fc7586f82408000482ce60b4e6   
  SHA-1: a0ec124a7a3a8cdef2f00757e3369d0dcad4470e
  
 Download also from sourceforge.net:
