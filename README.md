@@ -14,7 +14,7 @@ Change log: https://33hops.com/xsibackup-datacenter-change-log.html
 Run the binary invoking 'xsibackup'.
 Run the nCurses GUI invoking 'xsibackup-gui'.
 
-This appliance contains ©XSIBackup 2.0, which is capable of backing up VMs 
+This appliance contains ©XSIBackup, which is capable of backing up VMs 
 in any ©ESXi server reachable over IP/SSH. The set of arguments and flags 
 is exactly the same as in previous version of (c)XSIBackup-DC/ Pro, but 
 some new arguments have been added to allow accessing and backing up VMs in 
